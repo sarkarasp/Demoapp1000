@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30011.22
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "AzuretestWeb", "AzuretestWeb\AzuretestWeb.csproj", "{0DE5A16F-5959-4899-B621-0C871C14A12A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0DE5A16F-5959-4899-B621-0C871C14A12A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0DE5A16F-5959-4899-B621-0C871C14A12A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0DE5A16F-5959-4899-B621-0C871C14A12A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0DE5A16F-5959-4899-B621-0C871C14A12A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A7969AB1-9EDB-4B1D-B1B2-74FB66AF2076}
+	EndGlobalSection
+EndGlobal
